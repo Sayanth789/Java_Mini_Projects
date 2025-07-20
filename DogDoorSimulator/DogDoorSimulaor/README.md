@@ -5,6 +5,7 @@ This is a simple Java simulation of an automated dog door system.
 ### 📂 Files Included
 - `DogDoor.java` — Core logic for opening and closing the dog door.
 - `Bark.java` — Represents a dog's bark.
+- Remote.java -Represents the remote control system.
 - `BarkRecognizer.java` — Recognizes if a bark matches an allowed one.
 - `DogDoorSimulator.java` — Main class that simulates how the dog door system works.
 
